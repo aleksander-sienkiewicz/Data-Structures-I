@@ -1,0 +1,210 @@
+"""
+-------------------------------------------------------
+Assignment 1 Test Results.
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+__updated__ = "2022-01-15"
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+"""
+
+List: []
+Cleaned list: []
+
+List: [0, 1, 2, 3, 4, 5]
+Cleaned list: [0, 1, 2, 3, 4, 5]
+
+List: [0, 0, 0, 0, 0, 0]
+Cleaned list: [0]
+
+List: [0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3]
+Cleaned list: [0, 1, 2, 3]
+
+Done
+
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+"""
+
+String: 
+Disemvowlled: ||
+
+String: A
+Disemvowlled: ||
+
+String: a
+Disemvowlled: ||
+
+String: B
+Disemvowlled: |B|
+
+String: b
+Disemvowlled: |b|
+
+String: a bAB o
+Disemvowlled: | bB |
+
+String: aye
+Disemvowlled: |y|
+
+Done
+
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+"""
+
+File: pelee.txt
+Results: (20, 617, 9, 143, 16)
+
+Done
+
+"""
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+"""
+
+Year: 1900
+Leap year: False
+
+Year: 1999
+Leap year: False
+
+Year: 2000
+Leap year: True
+
+Year: 2004
+Leap year: True
+
+Done
+
+"""
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+"""
+
+String: David
+Palindrome: False
+
+String: Otto
+Palindrome: True
+
+String: racecar
+Palindrome: True
+
+String: Able was I ere I saw Elba
+Palindrome: True
+
+Done
+
+"""
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+"""
+
+List: []
+Maximum difference: 0
+
+List: [0]
+Maximum difference: 0
+
+List: [0, 0, 0, 0]
+Maximum difference: 0
+
+List: [0, 1, 2, 3]
+Maximum difference: 1
+
+List: [40, 20, 10, 5]
+Maximum difference: 20
+
+List: [3, -5, 5, 11, 7]
+Maximum difference: 10
+
+Done
+
+"""
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+"""
+
+Matrix: [[0]]
+Transposed: [[0]]
+
+Matrix: [[10]]
+Transposed: [[10]]
+
+Matrix: [[1, 1], [1, 1]]
+Transposed: [[1, 1], [1, 1]]
+
+Matrix: [[1, 1, 1, 1], [1, 1, 1, 1]]
+Transposed: [[1, 1], [1, 1], [1, 1], [1, 1]]
+
+Matrix: [[1, 1], [1, 1], [1, 1], [1, 1]]
+Transposed: [[1, 1, 1, 1], [1, 1, 1, 1]]
+
+Matrix: [[4, 5, 6], [3, 2, 1], [9, 8, 7]]
+Transposed: [[4, 3, 9], [5, 2, 8], [6, 1, 7]]
+
+Done
+
+"""
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+"""
+
+Matrix: [[0]]
+Stats: (0, 0, 0, 0.0)
+
+Matrix: [[10]]
+Stats: (10, 10, 10, 10.0)
+
+Matrix: [[1, 1], [1, 1]]
+Stats: (1, 1, 4, 1.0)
+
+Matrix: [[1, 1, 1, 1], [1, 1, 1, 1]]
+Stats: (1, 1, 8, 1.0)
+
+Matrix: [[1, 1], [1, 1], [1, 1], [1, 1]]
+Stats: (1, 1, 8, 1.0)
+
+Matrix: [[4, 5, 6], [3, 2, 1], [9, 8, 7]]
+Stats: (1, 9, 45, 5.0)
+
+Done
+
+"""
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+"""
+
+String: car
+Pig Latin: arcay
+
+String: yard
+Pig Latin: ardyay
+
+String: lynx
+Pig Latin: ynxlay
+
+String: art
+Pig Latin: artway
+
+String: David
+Pig Latin: Avidday
+
+String: track
+Pig Latin: acktray
+
+Done

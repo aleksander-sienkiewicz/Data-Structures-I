@@ -1,0 +1,363 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Mar 12 2022
+a07
+
+---------------------------------
+t01
+---------------------------------
+Printing first item: 
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Printing first item: 
+Name:       Shark Fin Soup
+Origin:     Chinese
+Vegetarian: False
+Calories:   46
+Shark Fin Soup                          3
+Lasagna                                 2
+Butter Chicken                          2
+Moo Goo Guy Pan                         2
+Vegetable Alicha                        2
+Spanakopita                             2
+Chirashi Don                            2
+Canuck Burger                           2
+Turducken                               2
+Shark Fin Soup                          3
+Chamuco                                 2
+Natto                                   2
+Canada Goose Chili                      2
+Diet Free-Range Gluten-free Water       2
+Kung Pao Chicken                        2
+General Tao Chicken                     2
+Spicy Vegetable Moo Shu                 2
+BBQ Pork                                2
+Orange Chicken                          2
+Vegetables with Cashew Nuts             2
+Lemon Chicken                           2
+Beef with Green Pepper                  2
+Sweet and Sour Pork                     2
+Szechuan Shrimp                         2
+Poutine                                 2
+Teppanyaki                              2
+Greek Salad                             2
+Fettuccine                              2
+Teriyaki                                2
+Shortbread                              2
+Pavlova                                 2
+Hokey Pokey Ice Cream                   2
+Fricot                                  2
+Chip Butty                              2
+Grilled Salmon                          2
+Ravioli                                 2
+Crepe                                   2
+Fried Rice                              2
+Pepperoni Pizza                         2
+Chicken Kabob                           2
+Panzerotti                              2
+Spring Rolls                            2
+Chicken Chow Mein                       2
+Chicken Wings                           2
+Lasagna                                 2
+Butter Chicken                          2
+Moo Goo Guy Pan                         2
+Vegetable Alicha                        2
+Spanakopita                             2
+Chirashi Don                            2
+Canuck Burger                           2
+Turducken                               2
+Shark Fin Soup                          3
+Chamuco                                 2
+Natto                                   2
+Canada Goose Chili                      2
+Diet Free-Range Gluten-free Water       2
+Kung Pao Chicken                        2
+General Tao Chicken                     2
+Spicy Vegetable Moo Shu                 2
+BBQ Pork                                2
+Orange Chicken                          2
+Vegetables with Cashew Nuts             2
+Lemon Chicken                           2
+Beef with Green Pepper                  2
+Sweet and Sour Pork                     2
+Szechuan Shrimp                         2
+Poutine                                 2
+Teppanyaki                              2
+Greek Salad                             2
+Fettuccine                              2
+Teriyaki                                2
+Shortbread                              2
+Pavlova                                 2
+Hokey Pokey Ice Cream                   2
+Fricot                                  2
+Chip Butty                              2
+Grilled Salmon                          2
+Ravioli                                 2
+Crepe                                   2
+Fried Rice                              2
+Pepperoni Pizza                         2
+Chicken Kabob                           2
+Panzerotti                              2
+Spring Rolls                            2
+Chicken Chow Mein                       2
+Chicken Wings                           2
+
+Printing count: 
+Traceback (most recent call last):
+Shark Fin Soup                          1
+Lasagna                                 1
+Butter Chicken                          1
+Moo Goo Guy Pan                         1
+Vegetable Alicha                        1
+Spanakopita                             1
+Chirashi Don                            1
+Canuck Burger                           1
+Turducken                               1
+Chamuco                                 1
+Natto                                   1
+Canada Goose Chili                      1
+Diet Free-Range Gluten-free Water       1
+Kung Pao Chicken                        1
+General Tao Chicken                     1
+Spicy Vegetable Moo Shu                 1
+BBQ Pork                                1
+Orange Chicken                          1
+Vegetables with Cashew Nuts             1
+Lemon Chicken                           1
+Beef with Green Pepper                  1
+Sweet and Sour Pork                     1
+Szechuan Shrimp                         1
+Poutine                                 1
+Teppanyaki                              1
+Greek Salad                             1
+Fettuccine                              1
+Teriyaki                                1
+Shortbread                              1
+Pavlova                                 1
+Hokey Pokey Ice Cream                   1
+Fricot                                  1
+Chip Butty                              1
+Grilled Salmon                          1
+Ravioli                                 1
+Crepe                                   1
+Fried Rice                              1
+Pepperoni Pizza                         1
+Chicken Kabob                           1
+Panzerotti                              1
+Spring Rolls                            1
+Chicken Chow Mein                       1
+Chicken Wings                           1
+
+---------------------------------
+t02
+---------------------------------
+
+BBQ Pork                                2
+BBQ Pork                                2
+Beef with Green Pepper                  2
+Beef with Green Pepper                  2
+Butter Chicken                          2
+Butter Chicken                          2
+Canada Goose Chili                      2
+Canada Goose Chili                      2
+Canuck Burger                           2
+Canuck Burger                           2
+Chamuco                                 2
+Chamuco                                 2
+Chicken Chow Mein                       2
+Chicken Chow Mein                       2
+Chicken Kabob                           2
+Chicken Kabob                           2
+Chicken Wings                           2
+Chicken Wings                           2
+Chip Butty                              2
+Chip Butty                              2
+Chirashi Don                            2
+Chirashi Don                            2
+Crepe                                   2
+Crepe                                   2
+Diet Free-Range Gluten-free Water       2
+Diet Free-Range Gluten-free Water       2
+Fettuccine                              2
+Fettuccine                              2
+Fricot                                  2
+Fricot                                  2
+Fried Rice                              2
+Fried Rice                              2
+General Tao Chicken                     2
+General Tao Chicken                     2
+Greek Salad                             2
+Greek Salad                             2
+Grilled Salmon                          2
+Grilled Salmon                          2
+Hokey Pokey Ice Cream                   2
+Hokey Pokey Ice Cream                   2
+Kung Pao Chicken                        2
+Kung Pao Chicken                        2
+Lasagna                                 2
+Lasagna                                 2
+Lemon Chicken                           2
+Lemon Chicken                           2
+Moo Goo Guy Pan                         2
+Moo Goo Guy Pan                         2
+Natto                                   2
+Natto                                   2
+Orange Chicken                          2
+Orange Chicken                          2
+Panzerotti                              2
+Panzerotti                              2
+Pavlova                                 2
+Pavlova                                 2
+Pepperoni Pizza                         2
+Pepperoni Pizza                         2
+Poutine                                 2
+Poutine                                 2
+Ravioli                                 2
+Ravioli                                 2
+Shark Fin Soup                          3
+Shark Fin Soup                          3
+Shark Fin Soup                          3
+Shortbread                              2
+Shortbread                              2
+Spanakopita                             2
+Spanakopita                             2
+Spicy Vegetable Moo Shu                 2
+Spicy Vegetable Moo Shu                 2
+Spring Rolls                            2
+Spring Rolls                            2
+Sweet and Sour Pork                     2
+Sweet and Sour Pork                     2
+Szechuan Shrimp                         2
+Szechuan Shrimp                         2
+Teppanyaki                              2
+Teppanyaki                              2
+Teriyaki                                2
+Teriyaki                                2
+Turducken                               2
+Turducken                               2
+Vegetable Alicha                        2
+Vegetable Alicha                        2
+Vegetables with Cashew Nuts             2
+Vegetables with Cashew Nuts             2
+BBQ Pork                                1
+Beef with Green Pepper                  1
+Butter Chicken                          1
+Canada Goose Chili                      1
+Canuck Burger                           1
+Chamuco                                 1
+Chicken Chow Mein                       1
+Chicken Kabob                           1
+Chicken Wings                           1
+Chip Butty                              1
+Chirashi Don                            1
+Crepe                                   1
+Diet Free-Range Gluten-free Water       1
+Fettuccine                              1
+Fricot                                  1
+Fried Rice                              1
+General Tao Chicken                     1
+Greek Salad                             1
+Grilled Salmon                          1
+Hokey Pokey Ice Cream                   1
+Kung Pao Chicken                        1
+Lasagna                                 1
+Lemon Chicken                           1
+Moo Goo Guy Pan                         1
+Natto                                   1
+Orange Chicken                          1
+Panzerotti                              1
+Pavlova                                 1
+Pepperoni Pizza                         1
+Poutine                                 1
+Ravioli                                 1
+Shark Fin Soup                          1
+Shortbread                              1
+Spanakopita                             1
+Spicy Vegetable Moo Shu                 1
+Spring Rolls                            1
+Sweet and Sour Pork                     1
+Szechuan Shrimp                         1
+Teppanyaki                              1
+Teriyaki                                1
+Turducken                               1
+Vegetable Alicha                        1
+Vegetables with Cashew Nuts             1
+
+Panzerotti in sl?: 
+True
+
+Index of Panzerotti: 
+6
+
+Panzerotti: 
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298
+
+Second item: 
+Name:       Beef with Green Pepper
+Origin:     Chinese
+Vegetarian: False
+Calories:   251
+
+First item: 
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+
+Min value: 
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+
+Max value: 
+Name:       Vegetables with Cashew Nuts
+Origin:     Chinese
+Vegetarian: False
+Calories:   143
+
+Remove first value: 
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+
+Remove Panzerotti: 
+Name:       Panzerotti
+Origin:     Italian
+Vegetarian: False
+Calories:   770
+
+Butter Chicken                          1
+Canuck Burger                           1
+Chamuco                                 1
+Chirashi Don                            1
+Lasagna                                 1
+Moo Goo Guy Pan                         1
+Shark Fin Soup                          1
+Spanakopita                             1
+Turducken                               1
+Vegetable Alicha                        1
+
+sl2 and sl3 are identical?: 
+True
+
+Butter Chicken                          1
+Canuck Burger                           1
+Chamuco                                 1
+Chirashi Don                            1
+Lasagna                                 1
+Moo Goo Guy Pan                         1
+Shark Fin Soup                          1
+Spanakopita                             1
+Turducken                               1
+Vegetable Alicha                        1
+
+
+---------------------------------

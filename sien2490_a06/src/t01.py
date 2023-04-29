@@ -1,0 +1,73 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Aleksander Sienkiewicz
+ID:      210222490
+Email:   sien2490@mylaurier.ca
+__updated__ = "2022-03-03"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+def func():
+    """
+    -------------------------------------------------------
+    description
+    Use: 
+    -------------------------------------------------------
+    Parameters:
+        name - description (type)
+    Returns:
+         name - description (type)
+    ------------------------------------------------------
+    """
+from Queue_linked import Queue
+
+queue = Queue()
+print(queue.is_empty())
+
+print()
+print(queue.is_full())
+
+print()
+print("Length: ")
+print(len(queue))
+
+queue.insert(100)
+
+print()
+print("Length: ")
+print(len(queue))
+
+queue.insert(200)
+
+print()
+print("Removed: ")
+print(queue.remove())
+
+print()
+print("First item: ")
+print(queue.peek())
+
+queue1 = Queue()
+queue1.insert(300)
+queue2 = Queue()
+queue2.combine(queue, queue1)
+
+print()
+print("Printing: ")
+for value in queue2:
+    print(value)
+
+target1, target2 = queue2.split_alt()
+print()
+print("Printing target1: ")
+for value in target1:
+    print(value)
+print()
+print("Printing target2: ")
+for value in target2:
+    print(value)

@@ -1,0 +1,166 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Mar 19 2022
+lab 09
+
+---------------------------------
+t01
+---------------------------------
+
+Enter Name: Lasagne
+Enter Origin
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+Enter origin: 7
+Vegeratrian or not (Y/N): N
+Enter Calories: 695
+Enter Name: Lasagne
+Enter Origin
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+Enter origin: 7
+Vegeratrian or not (Y/N): N
+Enter Calories: 695
+
+hash     slot key
+-------- ---- --------------------
+     699    3 Name:       Lasagne
+Origin:     Italian
+Vegetarian: False
+Calories:   695
+     699    3 Name:       Lasagne
+Origin:     Italian
+Vegetarian: False
+Calories:   695
+
+
+---------------------------------
+t02
+---------------------------------
+
+Printing hash set: 
+200
+3000
+4000
+Removing value: 
+3000
+Printing hash set: 
+200
+4000
+
+---------------------------------
+t03
+---------------------------------
+
+Hash set: 
+3 slots
+
+Slot 0
+
+3000
+
+Slot 1
+
+10
+
+Slot 2
+
+200
+
+
+---------------------------------
+t04
+---------------------------------
+
+Hash set:
+1 slots
+
+Slot 0
+
+1
+
+200
+
+3000
+
+40000
+
+500000
+
+2
+
+3
+
+4
+
+5
+
+
+New hash set is:
+1 slots
+
+Slot 0
+
+1
+
+200
+
+3000
+
+40000
+
+500000
+
+2
+
+3
+
+4
+
+5
+
+201
+
+202
+
+3001
+
+3002
+
+40001
+
+40002
+
+500001
+
+500002
+
+6
+
+7
+
+---------------------------------
+
+

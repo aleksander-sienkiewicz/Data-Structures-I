@@ -1,0 +1,66 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Jan 14 2022
+Assignment01
+---------------------------------
+t01
+---------------------------------
+Enter values seperating them with a comma: 1,2,2,3,4,7,4,2,6
+Cleaned up list is: [1, 2, 3, 4, 7, 6]
+---------------------------------
+t02
+---------------------------------
+Sentence: HIiiii i think you are pretty cool
+Disemvowelled: H  thnk y r prtty cl
+---------------------------------
+t03
+---------------------------------
+Uppercase Letters:     12
+Lowercase Letters:     11
+Digits:                11
+Whitespace Characters: 12
+Remaining Characters:   
+---------------------------------
+t04
+---------------------------------
+Enter your year: 2022
+2022 is not a leap year
+
+Enter your year: 2024
+2024 is a leap year!
+---------------------------------
+t05
+---------------------------------
+Enter your word: otto
+otto is a palidrome!
+
+Enter your word: happy
+happy is not a palidrome
+
+---------------------------------
+t06
+---------------------------------
+Enter values seperated by a comma: 0,2,0,-6,32
+The Biggest Difference Is: 38
+---------------------------------
+t07
+---------------------------------
+Matrix Is: [[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]] 
+Transposed Matrix Is: [0, 1, 2, 3, 4]
+---------------------------------
+t08
+---------------------------------
+[[100, 10, 3, 99], [1000, -29, 10, 43]]
+Smallest Value: -29
+Largest Value: 1000
+Total: 1236
+Average: 154.50
+---------------------------------
+t09
+---------------------------------
+Enter your string: car
+caray
+
+Enter your string: track
+trackay
+

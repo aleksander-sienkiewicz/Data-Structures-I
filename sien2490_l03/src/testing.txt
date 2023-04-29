@@ -1,0 +1,95 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Jan 22 2022
+lab03
+---------------------------------
+t01
+---------------------------------
+
+Enter your value: 8
+1
+
+---------------------------------
+t02
+---------------------------------
+
+Enter your value: 12
+12
+12
+
+
+---------------------------------
+t03
+---------------------------------
+
+1
+2
+3
+4
+5
+[1, 2, 3, 4, 5]
+Queue is empty
+Insert 1 to queue
+Queue is not empty
+peaking: 1
+Removing: 1
+Insert 2 to queue
+Queue is not empty
+peaking: 2
+Removing: 2
+Insert 3 to queue
+Queue is not empty
+peaking: 3
+Removing: 3
+Insert 4 to queue
+Queue is not empty
+peaking: 4
+Removing: 4
+Insert 5 to queue
+
+---------------------------------
+t04
+---------------------------------
+
+Enter your number (int): 12
+12
+
+---------------------------------
+t05
+---------------------------------
+
+Enter your number (int): 12
+12
+
+---------------------------------
+t06
+---------------------------------
+
+1
+2
+[1, 2]
+priority queue is empty...
+inserted Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135 into priority queue
+priority queue is not empty!
+peeking: Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+removing: Name:       Lasagna
+...
+priority queue is not empty!
+peeking: Name:       Spanakopita
+Origin:     Greek
+Vegetarian: False
+Calories:   260
+removing: Name:       Spanakopita
+Origin:     Greek
+Vegetarian: False
+Calories:   260
+inserted Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600 into priority queue

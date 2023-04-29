@@ -1,0 +1,73 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Jan 14 2022
+lab01
+---------------------------------
+t01
+---------------------------------
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+---------------------------------
+t02
+---------------------------------
+Name:       Poutine
+Origin:     Canadian
+Vegetarian: False
+Calories:   120
+
+---------------------------------
+t03
+---------------------------------
+Enter Name: chicken
+Enter Origin
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+Enter origin: 3
+Vegeratrian or not (Y/N): N
+Enter Calories: 130
+Name:       chicken
+Origin:     Ethiopian
+Vegetarian: False
+Calories:   130
+---------------------------------
+t04
+---------------------------------
+Name:       Orange Chicken
+Origin:     Chinese
+Vegetarian: False
+Calories:   800
+---------------------------------
+t05
+---------------------------------
+n/a
+---------------------------------
+t06
+---------------------------------
+n/a
+---------------------------------
+t07
+---------------------------------
+n/a
+

@@ -1,0 +1,496 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Feb 11 2022
+Assignment 05
+---------------------------------
+t01
+---------------------------------
+Append test
+Lasagna = 2
+Butter Chicken = 2
+Moo Goo Guy Pan = 2
+Vegetable Alicha = 2
+Spanakopita = 2
+Chirashi Don = 2
+Canuck Burger = 2
+Turducken = 2
+Shark Fin Soup = 2
+Chamuco = 2
+Natto = 2
+Canada Goose Chili = 2
+Diet Free-Range Gluten-free Water = 2
+Kung Pao Chicken = 2
+General Tao Chicken = 2
+Spicy Vegetable Moo Shu = 2
+BBQ Pork = 2
+Orange Chicken = 2
+Vegetables with Cashew Nuts = 2
+Lemon Chicken = 2
+Beef with Green Pepper = 2
+Sweet and Sour Pork = 2
+Szechuan Shrimp = 2
+Poutine = 2
+Teppanyaki = 2
+Greek Salad = 2
+Fettuccine = 2
+Teriyaki = 2
+Shortbread  = 2
+Pavlova = 2
+Hokey Pokey Ice Cream = 2
+Fricot = 2
+Chip Butty = 2
+Grilled Salmon = 2
+Ravioli = 2
+Crepe = 2
+Fried Rice = 2
+Pepperoni Pizza = 2
+Chicken Kabob = 2
+Panzerotti = 2
+Spring Rolls = 2
+Chicken Chow Mein = 2
+Chicken Wings = 2
+Lasagna = 2
+Butter Chicken = 2
+Moo Goo Guy Pan = 2
+Vegetable Alicha = 2
+Spanakopita = 2
+Chirashi Don = 2
+Canuck Burger = 2
+Turducken = 2
+Shark Fin Soup = 2
+Chamuco = 2
+Natto = 2
+Canada Goose Chili = 2
+Diet Free-Range Gluten-free Water = 2
+Kung Pao Chicken = 2
+General Tao Chicken = 2
+Spicy Vegetable Moo Shu = 2
+BBQ Pork = 2
+Orange Chicken = 2
+Vegetables with Cashew Nuts = 2
+Lemon Chicken = 2
+Beef with Green Pepper = 2
+Sweet and Sour Pork = 2
+Szechuan Shrimp = 2
+Poutine = 2
+Teppanyaki = 2
+Greek Salad = 2
+Fettuccine = 2
+Teriyaki = 2
+Shortbread  = 2
+Pavlova = 2
+Hokey Pokey Ice Cream = 2
+Fricot = 2
+Chip Butty = 2
+Grilled Salmon = 2
+Ravioli = 2
+Crepe = 2
+Fried Rice = 2
+Pepperoni Pizza = 2
+Chicken Kabob = 2
+Panzerotti = 2
+Spring Rolls = 2
+Chicken Chow Mein = 2
+Chicken Wings = 2
+McNuggets = 1
+
+Clean test
+Lasagna = 1
+Butter Chicken = 1
+Moo Goo Guy Pan = 1
+Vegetable Alicha = 1
+Spanakopita = 1
+Chirashi Don = 1
+Canuck Burger = 1
+Turducken = 1
+Shark Fin Soup = 1
+Chamuco = 1
+Natto = 1
+Canada Goose Chili = 1
+Diet Free-Range Gluten-free Water = 1
+Kung Pao Chicken = 1
+General Tao Chicken = 1
+Spicy Vegetable Moo Shu = 1
+BBQ Pork = 1
+Orange Chicken = 1
+Vegetables with Cashew Nuts = 1
+Lemon Chicken = 1
+Beef with Green Pepper = 1
+Sweet and Sour Pork = 1
+Szechuan Shrimp = 1
+Poutine = 1
+Teppanyaki = 1
+Greek Salad = 1
+Fettuccine = 1
+Teriyaki = 1
+Shortbread  = 1
+Pavlova = 1
+Hokey Pokey Ice Cream = 1
+Fricot = 1
+Chip Butty = 1
+Grilled Salmon = 1
+Ravioli = 1
+Crepe = 1
+Fried Rice = 1
+Pepperoni Pizza = 1
+Chicken Kabob = 1
+Panzerotti = 1
+Spring Rolls = 1
+Chicken Chow Mein = 1
+Chicken Wings = 1
+McNuggets = 1
+
+test combine
+Lasagna
+test1
+Butter Chicken
+test2
+Moo Goo Guy Pan
+Vegetable Alicha
+Spanakopita
+Chirashi Don
+Canuck Burger
+Turducken
+Shark Fin Soup
+Chamuco
+Natto
+Canada Goose Chili
+Diet Free-Range Gluten-free Water
+Kung Pao Chicken
+General Tao Chicken
+Spicy Vegetable Moo Shu
+BBQ Pork
+Orange Chicken
+Vegetables with Cashew Nuts
+Lemon Chicken
+Beef with Green Pepper
+Sweet and Sour Pork
+Szechuan Shrimp
+Poutine
+Teppanyaki
+Greek Salad
+Fettuccine
+Teriyaki
+Shortbread 
+Pavlova
+Hokey Pokey Ice Cream
+Fricot
+Chip Butty
+Grilled Salmon
+Ravioli
+Crepe
+Fried Rice
+Pepperoni Pizza
+Chicken Kabob
+Panzerotti
+Spring Rolls
+Chicken Chow Mein
+Chicken Wings
+McNuggets
+
+test getitem
+Name:       Shark Fin Soup
+Origin:     Chinese
+Vegetarian: False
+Calories:   46
+
+test intersection
+test1
+test2
+
+test compare
+False
+
+test prepend
+test1
+test1
+test2
+
+test remove front
+Lasagna
+test1
+Butter Chicken
+test2
+Moo Goo Guy Pan
+Vegetable Alicha
+Spanakopita
+Chirashi Don
+Canuck Burger
+Turducken
+Shark Fin Soup
+Chamuco
+Natto
+Canada Goose Chili
+Diet Free-Range Gluten-free Water
+Kung Pao Chicken
+General Tao Chicken
+Spicy Vegetable Moo Shu
+BBQ Pork
+Orange Chicken
+Vegetables with Cashew Nuts
+Lemon Chicken
+Beef with Green Pepper
+Sweet and Sour Pork
+Szechuan Shrimp
+Poutine
+Teppanyaki
+Greek Salad
+Fettuccine
+Teriyaki
+Shortbread 
+Pavlova
+Hokey Pokey Ice Cream
+Fricot
+Chip Butty
+Grilled Salmon
+Ravioli
+Crepe
+Fried Rice
+Pepperoni Pizza
+Chicken Kabob
+Panzerotti
+Spring Rolls
+Chicken Chow Mein
+Chicken Wings
+McNuggets
+
+test remove
+Lasagna
+Butter Chicken
+test2
+Moo Goo Guy Pan
+Vegetable Alicha
+Spanakopita
+Chirashi Don
+Canuck Burger
+Turducken
+Shark Fin Soup
+Chamuco
+Natto
+Canada Goose Chili
+Diet Free-Range Gluten-free Water
+Kung Pao Chicken
+General Tao Chicken
+Spicy Vegetable Moo Shu
+BBQ Pork
+Orange Chicken
+Vegetables with Cashew Nuts
+Lemon Chicken
+Beef with Green Pepper
+Sweet and Sour Pork
+Szechuan Shrimp
+Poutine
+Teppanyaki
+Greek Salad
+Fettuccine
+Teriyaki
+Shortbread 
+Pavlova
+Hokey Pokey Ice Cream
+Fricot
+Chip Butty
+Grilled Salmon
+Ravioli
+Crepe
+Fried Rice
+Pepperoni Pizza
+Chicken Kabob
+Panzerotti
+Spring Rolls
+Chicken Chow Mein
+Chicken Wings
+McNuggets
+
+test split
+Lasagna
+Butter Chicken
+test2
+Moo Goo Guy Pan
+Vegetable Alicha
+Spanakopita
+Chirashi Don
+Canuck Burger
+Turducken
+Shark Fin Soup
+Chamuco
+Natto
+Canada Goose Chili
+Diet Free-Range Gluten-free Water
+Kung Pao Chicken
+General Tao Chicken
+Spicy Vegetable Moo Shu
+BBQ Pork
+Orange Chicken
+Vegetables with Cashew Nuts
+Lemon Chicken
+Beef with Green Pepper
+Sweet and Sour Pork
+
+test split
+Szechuan Shrimp
+Poutine
+Teppanyaki
+Greek Salad
+Fettuccine
+Teriyaki
+Shortbread 
+Pavlova
+Hokey Pokey Ice Cream
+Fricot
+Chip Butty
+Grilled Salmon
+Ravioli
+Crepe
+Fried Rice
+Pepperoni Pizza
+Chicken Kabob
+Panzerotti
+Spring Rolls
+Chicken Chow Mein
+Chicken Wings
+McNuggets
+
+Test alt
+Lasagna
+test2
+Vegetable Alicha
+Chirashi Don
+Turducken
+Chamuco
+Canada Goose Chili
+Kung Pao Chicken
+Spicy Vegetable Moo Shu
+Orange Chicken
+Lemon Chicken
+Sweet and Sour Pork
+
+test alt
+Butter Chicken
+Moo Goo Guy Pan
+Spanakopita
+Canuck Burger
+Shark Fin Soup
+Natto
+Diet Free-Range Gluten-free Water
+General Tao Chicken
+BBQ Pork
+Vegetables with Cashew Nuts
+Beef with Green Pepper
+
+Testing union
+test2
+Lasagna
+Vegetable Alicha
+Chirashi Don
+Turducken
+Chamuco
+Canada Goose Chili
+Kung Pao Chicken
+Spicy Vegetable Moo Shu
+Orange Chicken
+Lemon Chicken
+Sweet and Sour Pork
+Butter Chicken
+Moo Goo Guy Pan
+Spanakopita
+Canuck Burger
+Shark Fin Soup
+Natto
+Diet Free-Range Gluten-free Water
+General Tao Chicken
+BBQ Pork
+Vegetables with Cashew Nuts
+Beef with Green Pepper
+
+
+---------------------------------
+
+
+
+
+
+t02
+a lot of spaces so its very noticeable 
+
+
+
+
+
+---------------------------------
+
+Testing
+10
+20
+30
+
+Testing
+True
+
+Testing
+1
+
+Testing
+50
+
+Testing
+30
+
+Testing
+None
+
+Testing
+
+Testing
+False
+
+Testing
+None
+
+Testing
+100
+
+Testing
+10
+
+Testing
+1000
+
+Testing
+20
+30
+50
+
+Testing
+44
+44
+
+Testing
+44
+44
+
+Testing
+1000
+1000
+
+Testing
+44
+10000
+
+Testing
+44
+1000000
+
+Testing
+44
+1000
+10000
+
+Testing
+3000000
+
+Testing
+44
+1000
+10000
+3000000
+---------------------------------

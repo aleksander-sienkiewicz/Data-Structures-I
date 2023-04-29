@@ -1,0 +1,84 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Mar 04 2022
+a06
+---------------------------------
+t01
+---------------------------------
+True
+
+None
+
+Length: 
+0
+
+Length: 
+1
+
+Removed: 
+100
+
+First item: 
+200
+---------------------------------
+t02
+---------------------------------
+Queue is empty?: 
+True
+Length: 
+0
+
+Length: 
+1
+
+Removed: 
+100
+
+First item: 
+200
+
+Printing queue2: 
+200
+300
+
+Printing target1: 
+200
+
+Printing target2: 
+300
+
+Printing target1: 
+
+Printing target2: 
+100
+200
+300
+400
+---------------------------------
+t03
+---------------------------------
+Queue is empty?: 
+True
+Length of queue: 
+2
+
+Value at Front: 
+100
+
+Value at Rear: 
+200
+
+Value Removed: 
+100
+
+Value Removed: 
+200
+
+Values in queue: 
+400
+200
+300
+100
+---------------------------------
+
+

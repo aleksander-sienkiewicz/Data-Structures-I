@@ -1,0 +1,105 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Feb 5 2022
+lab04
+---------------------------------
+t01
+---------------------------------
+
+Name:       Szechuan Shrimp
+Origin:     Chinese
+Vegetarian: None
+Calories:   None
+
+---------------------------------
+t02
+---------------------------------
+
+0
+
+---------------------------------
+t03
+---------------------------------
+
+1
+2
+100
+
+---------------------------------
+t04
+---------------------------------
+
+-1
+None
+2 is in lst
+1
+-4
+4
+
+---------------------------------
+t05
+---------------------------------
+
+0
+100
+
+---------------------------------
+t06
+---------------------------------
+
+Printing LList: 
+2
+4
+6
+8
+10
+
+Printing List: 
+2
+4
+6
+8
+10
+
+---------------------------------
+t07
+---------------------------------
+
+None
+---------------
+None
+---------------
+0
+---------------
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+---------------
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+---------------
+None
+---------------
+1
+---------------
+Name:       Vegetables with Cashew Nuts
+Origin:     Chinese
+Vegetarian: False
+Calories:   143
+---------------
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+---------------
+0
+---------------
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+---------------------------------

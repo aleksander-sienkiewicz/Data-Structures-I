@@ -1,0 +1,58 @@
+Testing file
+Sien2490 - Aleksander Sienkiewicz
+Mar 25 2022
+lab 10
+
+---------------------------------
+t01
+---------------------------------
+1st value in values1: 
+0
+
+1st value in values2: 
+99
+
+1st value in first array in values3: 
+989
+
+
+
+
+---------------------------------
+t02
+---------------------------------
+
+n:   100       |      Comparisons       | |         Swaps          |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bubble Sort          99     4950     4743        0     4950     2443
+
+
+---------------------------------
+t03
+---------------------------------
+
+n:   100       |      Comparisons       | |         Swaps          |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bubble Sort          99     4950     4775        0     4950     2449
+Insertion Sort       99     4950     2578        0     4950     2483
+Merge Sort          356      316      541        0        0        0
+Quick Sort         5049     4999      888       33       33      119
+Selection Sort     4950     4950     4950        0       50       94
+Bin. Ins. Sort      480     1146      807        0     1682      847
+BST Sort           9999     5049     1407        0        0        0
+Cocktail Sort        99     4950     3383        0     4950     2472
+Comb Sort          1003     1102     1233        0      122      263
+Heap Sort          1081      944     1028      640      516      581
+Shell Sort          352      590      770        0      112      155
+
+
+---------------------------------
+t04
+---------------------------------
+
+n:   100       |      Comparisons       | |         Swaps          |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+

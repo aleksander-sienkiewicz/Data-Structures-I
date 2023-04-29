@@ -1,0 +1,145 @@
+"""
+-------------------------------------------------------
+Assignment 3 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+Version: 2022-01-25
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+"""
+
+See Task 2
+
+"""
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+"""
+
+Testing 'stack_combine'
+
+source1 contents:
+33, 22, 11, 
+source2 contents:
+66, 55, 44, 
+
+Combine:
+source1 contents:
+
+source2 contents:
+
+target contents:
+44, 11, 55, 22, 66, 33, 
+
+Compare to Stack 'combine'
+
+source1 contents:
+33, 22, 11, 
+source2 contents:
+66, 55, 44, 
+
+Combine:
+source1 contents:
+
+source2 contents:
+
+target contents:
+44, 11, 55, 22, 66, 33, 
+
+Done
+
+"""
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+"""
+
+See Task 4
+
+"""
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+"""
+
+Testing 'stack_reverse'
+
+source contents:
+66, 55, 44, 33, 22, 11, 
+
+Reverse
+source contents:
+11, 22, 33, 44, 55, 66, 
+
+Done
+
+"""
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+"""
+
+Testing 'is_palindrome_stack'
+
+Test: ''
+Palindrome: True
+
+Test: 'a'
+Palindrome: True
+
+Test: 'aa'
+Palindrome: True
+
+Test: 'aaa'
+Palindrome: True
+
+Test: 'otto'
+Palindrome: True
+
+Test: 'RaceCar'
+Palindrome: True
+
+Test: 'Able was I ere I saw Elba'
+Palindrome: True
+
+Test: 'A man, a plan, a canal, Panama!'
+Palindrome: True
+
+Test: 'David'
+Palindrome: False
+
+Done
+
+"""
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+"""
+
+Testing 'reroute'
+
+Test: '' - '[]'
+Reroute: []
+
+Test: '' - '[1]'
+Reroute: None
+
+Test: 'SX' - '[]'
+Reroute: None
+
+Test: 'SX' - '[1]'
+Reroute: [1]
+
+Test: 'SSSSXXXX' - '[1, 2, 3, 4]'
+Reroute: [4, 3, 2, 1]
+
+Test: 'SXSXSXSX' - '[1, 2, 3, 4]'
+Reroute: [1, 2, 3, 4]
+
+Test: 'XXXXSSSS' - '[1, 2, 3, 4]'
+Reroute: None
+
+Done
